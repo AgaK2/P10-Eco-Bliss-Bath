@@ -14,6 +14,7 @@ depuis un terminal ouvert dans le dossier du projet, lancer la commande :
 4. Front-end:  
 depuis un terminal ouvert dans le dossier du projet, lancer la commande :  
   _npm install_
+  
   _npm start_  
   
 Ouvrez le site depuis la page (http://localhost:8080)  
