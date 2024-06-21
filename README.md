@@ -8,11 +8,13 @@ Pour exécuter le projet, vous aurez besoin de : Node.js, Docker, NPM et Cypress
 1. Téléchargez ou clonez le dépôt  
   
 2. Back-end:  
-depuis un terminal ouvert dans le dossier du projet, lancer la commande :   _docker-compose up_
-3. Front-end:  
+depuis un terminal ouvert dans le dossier du projet, lancer la commande :
+  _docker-compose up_
+
+4. Front-end:  
 depuis un terminal ouvert dans le dossier du projet, lancer la commande :  
-_npm install_
-_npm start_  
+  _npm install_
+  _npm start_  
   
 Ouvrez le site depuis la page (http://localhost:8080)  
   
