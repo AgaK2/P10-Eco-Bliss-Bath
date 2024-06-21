@@ -5,11 +5,11 @@ Eco Bliss Bath est une start-up spécialisée dans la vente de produits de beaut
 Pour exécuter le projet, vous aurez besoin de : Node.js, Docker, NPM et Cypress.
     
 ## Installation du projet
-Téléchargez ou clonez le dépôt  
+1. Téléchargez ou clonez le dépôt  
   
-Back-end:  
+2. Back-end:  
 depuis un terminal ouvert dans le dossier du projet, lancer la commande :   _docker-compose up_
-Front-end:  
+3. Front-end:  
 depuis un terminal ouvert dans le dossier du projet, lancer la commande :  
 _npm install_
 _npm start_  
