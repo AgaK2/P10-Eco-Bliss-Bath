@@ -15,6 +15,7 @@ _npm install_
 _npm start_  
   
 Ouvrez le site depuis la page (http://localhost:8080)  
+  
 4. Cypress:  
 depuis un terminal ouvert dans le dossier du projet, lancer la commande :   
 _npx cypress open_  
